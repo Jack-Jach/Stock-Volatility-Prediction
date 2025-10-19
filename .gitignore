@@ -127,8 +127,5 @@ cython_debug/
 # macOS
 .DS_Store
 
-# HTML files
-*.html
-
 # ZIP files
 *.zip
