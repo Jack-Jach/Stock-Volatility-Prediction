@@ -127,12 +127,6 @@ cython_debug/
 # macOS
 .DS_Store
 
-# CSV files
-*.csv
-!A1_stock_volatility_labeled.csv
-!A1_stock_volatility_kaggle.csv
-!A1_stock_volatility_submission.csv
-
 # HTML files
 *.html
 
